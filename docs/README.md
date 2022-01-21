@@ -1,5 +1,5 @@
 # Learning rust trough 'The Book'
-[Link](https://doc.rust-lang.org/book/)
+[Link to 'The Book'](https://doc.rust-lang.org/book/)
 
 
 ## Cleanup for the future
